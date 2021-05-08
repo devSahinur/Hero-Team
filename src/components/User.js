@@ -1,7 +1,7 @@
 import React from 'react';
 import './User.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faAddressCard, faFlag, faMapMarker, faHandHoldingUsd} from '@fortawesome/free-solid-svg-icons'
+import { faAddressCard, faFlag, faMapMarker, faHandHoldingUsd, faUserPlus} from '@fortawesome/free-solid-svg-icons'
 
 const User = ({data, handlePlayerData}) => {
     return (
@@ -13,7 +13,7 @@ const User = ({data, handlePlayerData}) => {
                 <p><FontAwesomeIcon icon={faFlag} /> Country: {data.country}</p>
                 <p><FontAwesomeIcon icon={faHandHoldingUsd} /> Salary: ${data.salary}</p>
             </div>
-            <button onClick={() =>handlePlayerData(data)} className="add-btn disabled">Added</button>
+            <button onClick={() =>handlePlayerData(data)} className="add-btn disabled"><FontAwesomeIcon icon={faUserPlus} /> Added</button>
         </div>
     );
 };
