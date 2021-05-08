@@ -3,6 +3,7 @@
 - **React-Bootstrap**
 - **React-Material-ui**
 - **React-Hook**
+- **react-fontawesome**
 - **JSON**
 - **CSS3**
 - **HTML**

@@ -1,15 +1,17 @@
 import React from 'react';
 import './User.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faAddressCard, faFlag, faMapMarker, faHandHoldingUsd} from '@fortawesome/free-solid-svg-icons'
 
 const User = ({data, handlePlayerData}) => {
     return (
         <div className='user'>
             <img src={data.img} alt="" />
             <div>
-                <p> Name: {data.name}</p>
-                <p> Address: {data.location}</p>
-                <p> Country: {data.country}</p>
-                <p> Salary: ${data.salary}</p>
+                <p><FontAwesomeIcon icon={faAddressCard} /> Name: {data.name}</p>
+                <p><FontAwesomeIcon icon={faMapMarker} /> Address: {data.location}</p>
+                <p><FontAwesomeIcon icon={faFlag} /> Country: {data.country}</p>
+                <p><FontAwesomeIcon icon={faHandHoldingUsd} /> Salary: ${data.salary}</p>
             </div>
             <button onClick={() =>handlePlayerData(data)} className="add-btn disabled">Added</button>
         </div>
