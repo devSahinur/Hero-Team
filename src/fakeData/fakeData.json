@@ -1,0 +1,85 @@
+[{
+  "id": 1,
+  "name": "MS Dhoni",
+  "location": "Ranchi, Bihar",
+  "salary": 40000,
+  "country": "India",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170677/ms-dhoni.jpg"
+}, {
+  "id": 2,
+  "name": "Aaron Finch",
+  "location": "Colac, Victoriad",
+  "salary": 30000,
+  "country": "Australia",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170630/aaron-finch.jpg"
+}, {
+  "id": 3,
+  "name": "Cameron Delport",
+  "location": "Durban, Natal",
+  "salary": 64000,
+  "country": "South Africa",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c157370/cameron-delport.jpg"
+}, {
+  "id": 4,
+  "name": "Mahmudullah",
+  "location": "Mymensingh",
+  "salary": 52000,
+  "country": "Bangladeshr",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg"
+}, {
+  "id": 5,
+  "name": "Mohammad Saifuddin",
+  "location": "Feni, Chittagong",
+  "salary": 60200,
+  "country": "Bangladesh",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg"
+}, {
+  "id": 6,
+  "name": "Shakib Al Hasan",
+  "location": "Magura, Jessore",
+  "salary": 970000,
+  "country": "Bangladesh",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg"
+}, {
+  "id": 7,
+  "name": "Mustafizur Rahman",
+  "location": "Satkhira",
+  "salary": 11300,
+  "country": "Bangladesh",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg"
+}, {
+  "id": 8,
+  "name": "Qais Ahmad",
+  "location": "Nangarhar",
+  "salary": 622220,
+  "country": "Afghanistan",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c178321/qais-ahmad.jpg"
+}, {
+  "id": 9,
+  "name": "Rilee Rossouw",
+  "location": "Orange Free State",
+  "salary": 32000,
+  "country": "South Africa",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c157336/rilee-rossouw.jpg"
+}, {
+  "id": 10,
+  "name": "Sabbir Rahman",
+  "location": "Rajsahi",
+  "salary": 79000,
+  "country": "Bangladesh",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170903/sabbir-rahman.jpg"
+}, {
+  "id": 11,
+  "name": "Cameron Delport",
+  "location": "Durban, Natal",
+  "salary": 600,
+  "country": "South Africa",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c157370/cameron-delport.jpg"
+}, {
+  "id": 12,
+  "name": "Mohammad Saifuddin",
+  "location": "Feni, Chittagong",
+  "salary": 6800,
+  "country": "Bangladesh",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg"
+}]

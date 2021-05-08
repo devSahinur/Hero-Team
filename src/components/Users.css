@@ -1,0 +1,13 @@
+.users-container {
+    display: flex;
+    margin-top: 20px;
+}
+.users{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 75%;
+}
+.users-container .cart-details {
+    width: 20%;
+}

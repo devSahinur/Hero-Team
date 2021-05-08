@@ -1,0 +1,37 @@
+.user {
+    text-align: center;
+    margin: 20px;
+    border: 1.5px solid #e0dede;
+    border-radius: 4px;
+    padding: 15px;
+    box-shadow: 10px 10px 10px hsl(0deg 0% 72% / 32%);
+}
+.user img {
+    height: 250px;
+    width: 250px;
+}
+.user>div {
+    text-align: left;
+    margin: 15px 0;
+}
+.add-btn {
+    font-size: 1rem;
+    padding: 7px 11px;
+    background-color: #8e44ad;
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+}
+/* .disabled {
+    pointer-events: none;
+    background: rgba(166,85,201,.8235294117647058);
+} */
+.add-btn, .add-btn .icon {
+    color: #fff;
+}
+
+/* .user .icon {
+    color: #555;
+    font-size: .9rem;
+    margin-right: 10px;
+} */

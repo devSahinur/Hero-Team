@@ -1,0 +1,33 @@
+.cart {
+    text-align: center;
+    width: 20%;
+    height: 800px;
+    overflow: auto;
+    padding: 10px;
+    background-color: #3F51B5;
+    border-radius: 4px;
+    position: fixed;
+    margin-right: 20px;
+    border: 1.5px solid #3F51B5;
+    box-shadow: 10px 10px 10px hsl(0deg 0% 72% / 32%);
+}
+.avatar-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: scroll;
+}
+.avatar {
+    margin: 10px;
+    background: rgb(235, 233, 233);
+    padding: 10px;
+    width: 80px;
+    box-shadow: 5px 5px 5px hsl(0deg 0% 72% / 32%);
+}
+.avatar h5 {
+    margin: 4px 0 0;
+}
+.avatar img {
+    width: 100%;
+    border-radius: 50%;
+}
